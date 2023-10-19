@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RCTIplus_Registrasi_Neg_klik button next via email dengan hanya menginput field email_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ffd9c5f6-47e6-4025-9270-47ab04fef1e5</testCaseGuid>
+</TestCaseEntity>

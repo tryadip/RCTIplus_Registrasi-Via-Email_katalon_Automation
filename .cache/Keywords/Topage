@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "7A73659364F88DAF6B176870C7510A3E",
+  "keywordClasses": [
+    {
+      "name": "Topage",
+      "keywordMethods": [
+        {
+          "name": "toregisterpage",
+          "parameters": [],
+          "javadoc": "/**\n\t * Refresh browser\n\t */"
+        },
+        {
+          "name": "toregisterpage2",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "4F44BB4566CB09112AFFFC857858B554",
+  "keywordClasses": [
+    {
+      "name": "Report",
+      "keywordMethods": [
+        {
+          "name": "ss",
+          "parameters": [
+            {
+              "name": "file",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
